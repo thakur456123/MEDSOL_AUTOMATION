@@ -1,0 +1,8 @@
+com\cls\pages\App.class
+com\ms\qa\util\TestUtil.class
+com\cls\pages\HomePage.class
+com\cls\pages\SignPage.class
+com\cls\pages\SigninPage.class
+com\qa\ExtentReportListener\ExtentReporterNG.class
+com\ms\qa\base\TestBase.class
+com\ms\qa\util\WebEventListener.class
